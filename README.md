@@ -1,4 +1,4 @@
-# [CRM-platform](https://serjamba.github.io/CRM-platform/) - посетить сайт.
+# [CRM-platform](https://serjamba.github.io/CRM-platform/) - посетить платформу.
 
 <p>Что использовалось в проекте:</p>
 <ul>
